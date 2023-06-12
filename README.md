@@ -1,2 +1,2 @@
 # UsedBook
- 중고책 웹//Spring//Mysql//Mybatis//HTML//CSS
+ 중고책 웹/Spring/MyBatis/Mysql/HTML/css/Bootstrap3
